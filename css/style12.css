@@ -1,0 +1,369 @@
+.generel_block1{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    width:1340px;
+    height: 900px;
+background-color: grey;
+background-image: url(https://phonoteka.org/uploads/posts/2021-04/1617825529_1-p-fon-dlya-prezentatsii-po-pravu-1.jpg);
+}
+.block_2{
+    background-color: rgba(169, 84, 84, 0.5);
+    width:700px;
+    height: 500px;  
+  font-size: 25px;
+ align-items: center;
+    flex-direction: column;
+        display:flex;
+        border: 1px solid rgb(209, 125, 16);
+}
+h1{
+    color: rgb(248, 248, 247);
+font-size: 30px; 
+  }  
+p{
+    font-size: 60px;    
+    color: white; 
+}  
+h3{
+    color: rgb(248, 248, 247);
+font-size: 20px; 
+  } 
+  .generel_block2{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+   
+    
+    
+}
+.block_1{
+  
+    align-items: center;
+    flex-direction: flex;
+        display:flex;
+        width: 700px;
+        height: 600px;        
+        background: rgba(245, 100, 3, 0);
+        text-align: 1px solid rgb(209, 125, 16) end;
+       
+}
+.block_3{
+  
+    align-items: left;
+    flex-direction: column;
+        display:flex;
+        width: 700px;
+        height: 600px;
+        text-align: justify;
+        background-color: rgb(209, 125, 16);
+       
+        
+   
+}
+.create-line {
+    width: 400px;
+    border-top: 2px solid white;}
+    .generel_block3{
+        display: flex;
+        align-items: center;
+        justify-content:space-around;
+       
+    }
+    .block_4{
+  
+        align-items: center;
+        flex-direction: flex;
+            display:flex;
+            color: antiquewhite;
+            width: 500px;
+            height: 600px;        
+            background-color: antiquewhite; 
+            text-align: 1px solid rgb(209, 125, 16) end;
+    
+    }
+    P.blocktext {
+        margin-left: auto;
+        margin-right: auto;
+        width: 6em
+    }
+    .block_5{
+  
+        align-items: center;
+        flex-direction: column;
+            display:flex;
+            width: 900px;
+            height: 600px;
+            text-align: justify;
+            background-color: white;
+            
+       
+    }
+    p.id{
+        width: 550px;
+            height: 600px;
+        font-size: 30px;
+        align-items: center;
+        color: rgb(136, 90, 6);
+    }
+    h1.ib{
+      padding: 10px;
+        margin-top: 50px;
+        margin-left: 5px;
+        font-size: 25px;
+        align-items: center;
+        color: black;
+    }
+    .generel_block4{
+        display: flex;
+        align-items: center;
+        justify-content:space-around;
+       
+    }
+
+    .block_6{
+  
+        align-items: center;
+        flex-direction: column;
+            display:flex;
+            width: 850px;
+            height: 600px;
+            text-align: justify;
+            background-color: white;
+             
+    }
+    .block_7{
+  
+        align-items: center;
+        flex-direction: column;
+            display:flex;
+            width: 500px;
+            height: 600px;
+            text-align: justify;
+            background-color: rgb(209, 125, 16);           
+       
+    }
+    p.d{
+        width: 450px;
+            height: 300px;
+        font-size: 20px;
+        align-items: center;
+        color: white;
+        text-align: right;
+    }
+    h1.i{
+      padding: 10px;
+        margin-top: 50px;
+        margin-left: 5px;
+        font-size: 20px;
+       
+        color: white;
+        text-align: right;
+    }
+    P.blo {
+        margin-top: 0px;
+        margin-left: 0px;
+        font-size: 20px;
+       
+        color: black;
+        text-align: right;}
+
+.generel_block5{
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width:1350px;
+    height: 600px;
+background-image: url(https://celes.club/uploads/posts/2022-05/1653367175_3-celes-club-p-advokatskii-fon-krasivie-3.jpg);
+}
+      
+        .block_8{
+      
+            background-color: rgba(169, 84, 84, 0.5);
+    width:1350px;
+    height: 600px;  
+  font-size: 25px;
+ align-items: center;
+    flex-direction: column;
+        display:flex;
+        border: 1px solid rgb(209, 125, 16);
+                
+            position: absolute; 
+            
+        }
+        img.h{
+            align-items: center;
+            flex-direction: column;
+                display:inline-block;
+                
+                
+                text-align: justify;
+        }
+        h1.g{
+                      
+            color: white;
+            text-align: center;
+            margin-top:50px;
+        }
+        .block_9{
+  
+            align-items: center;
+            flex-direction: column;
+                display:inline-block;
+                
+                width: 400px;
+                height: 150px;
+                text-align:center;
+                
+                 
+        }
+        .block_10{
+      
+            align-items: center;
+            flex-direction: column;
+                display:inline-block;
+                
+                width: 400px;
+                height: 150px;
+                text-align: center;
+                           
+           
+        } 
+        .block_11{
+      
+            align-items: center;
+            flex-direction: column;
+                display:inline-block;
+                
+                width: 400px;
+                height: 150px;
+                text-align: center;
+                          
+           
+        
+        }
+        p.a{
+            
+            font-size: 20px;            
+            color: white;
+        }
+        h1.s{
+           
+              font-size: 20px;             
+              color: rgb(107, 17, 17);
+              text-align: center;
+          }
+          .generel_block6{
+    
+            display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width:1350px;
+    height: 600px;
+    background: linear-gradient(105deg, rgb(209, 125, 16) , white ) bottom;
+
+    
+
+
+        }
+        .block_12{
+      
+            align-items: center;
+            flex-direction:column ;
+                display:flex;
+                width: 800px;
+                height: 400px;
+               color: blue;
+                justify-content: center ;
+               
+             
+        }
+        .block_13{
+      
+            align-items: center;
+            flex-direction: column;
+                display:flex;
+                width: 700px;
+                height: 400px;
+                text-align: justify;
+                          
+           
+        }
+p.f{
+    
+    font-size: 20px;
+            
+    color: white;
+    
+}  
+.generel_block9{
+    
+    display: flex;
+align-items: center;
+justify-content:space-between;
+width:1350px;
+height: 600px;
+background-color: white;
+
+}
+.block_14{
+      
+    align-items: center;
+    flex-direction: column;
+        display:inline-block;
+        
+        width: 400px;
+        height: 150px;
+        text-align: center;
+    
+}
+p.m{
+    font-size: 35px;
+    color: black;
+    margin-top: 50px;
+}
+p.k{
+    font-size: 55px;
+    color: black;
+    margin-top: 50px;
+}
+
+.block_15{
+    align-items: center;
+    flex-direction: column;
+        display:inline-block;
+        
+        width: 400px;
+        height: 150px;
+        text-align: center;
+                 
+   
+}
+.block_16{
+      
+    align-items: center;
+            flex-direction: column;
+                display:inline-block;
+                
+                width: 400px;
+                height: 150px;
+                text-align: center;
+            
+}
+
+   .block_17{
+
+            width:1350px;
+            height: 400px;  
+          font-size: 25px;
+         align-items: center;
+            flex-direction: column;
+                display:flex;
+                
+           position: absolute; 
+                    
+                }
+   img.u{
+    border-radius: 2em 10%;
+
+   }
